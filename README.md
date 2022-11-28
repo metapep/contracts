@@ -1,2 +1,2 @@
-# contracts
-metapep labs smart contracts
+# metapep smart contracts
+the contracts we use at metapep labs
